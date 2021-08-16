@@ -1,0 +1,4 @@
+/.idea/
+/target/
+/src/main/java/com/gorynich/educationbot/bot/q.txt
+*.iml
